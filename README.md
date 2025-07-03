@@ -29,3 +29,13 @@ This project performs **web scraping and data analysis** on mobile listings from
 - 📈 Visualizations for trends in customer preference
 
 ---
+
+## ⚠️ Disclaimer
+
+This project is intended solely for **educational and personal learning purposes**.  
+The data was extracted from publicly available content on Amazon for **non-commercial** use only.  
+No copyrighted materials were stored, shared, or redistributed.
+
+> **Amazon is a registered trademark of Amazon.com, Inc.**  
+> This project is **not affiliated with or endorsed by Amazon** in any way.
+
